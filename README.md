@@ -9,7 +9,7 @@ I completed a B.E. in Computer Science and Engineering (AI & ML specialization) 
 ## Research experience
 
 **Research Collaborator · Intrinsically Interpretable Decision Representations for Reliable LLM Agents**  
-Nexora Lab, Manipal Academy of Higher Education (MAHE), Dubai Campus · **[Remote, Part-Time · Present](#research-experience)**  
+Nexora Lab, Manipal Academy of Higher Education (MAHE), Dubai Campus · **[Remote, Part-Time · Present](research-experience)**  
 **Principal Investigator:** Dr. Balamurugan Balusamy, Dean and Professor, School of Engineering and IT, MAHE Dubai
 
 **Research Intern - Physics-Informed Knowledge Distillation for Efficient Air Quality Index (AQI) Forecasting**  
