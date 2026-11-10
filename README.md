@@ -31,7 +31,7 @@ Birla Institute of Technology and Science, Pilani, Dubai Campus · Remote · Dec
   **Key tools:** `PyTorch` · `TensorFlow` · `SHAP` · `LIME`
 - **[GATED: Knowledge-Distilled Ultra-Lightweight Neural Network for Intelligent EV Battery Diagnostics](https://github.com/saivarun4/Implementation-Notebook---GATED-Approach)**  
   Gating-based knowledge distillation transfers domain-specific teacher knowledge to a compact neural network for EV battery diagnostics.  
-  **Key tools:** `PyTorch` · `Ensemble learning` · `Knowledge distillation`
+  **Key tools:** `PyTorch`
 - **[ICNN: Explainability-Augmented CNN for Alzheimer's Disease Stage Classification](https://github.com/saivarun4/Code-Repository---Explainability-Augmented-CNN-for-Alzheimer-s-Disease-Stage-Classification)**  
   Four-class alzheimer's disease stage classification with post-hoc explanations to interpret predictions and identify disease-associated features in brain MRI.  
   **Key tools:** `TensorFlow` · `SHAP` · `LIME` · `OpenCV`
@@ -92,11 +92,6 @@ The list below provides publications from my [OpenAlex author record](https://op
 - **Department Editor (Updates):** *XRDS: The ACM Magazine for Students*.
 - **Technical Program Committee (TPC) Member and Session Chair:** OPTIMA 2026.
 - **Conference reviewer:** HRI 2027 and selected IEEE conferences.
-
-## Leadership
-
-- **President, Sathyabama Student Council:** Led a 16-member council team.
-- **President, AICTE SPICES Innovation Club:** Led a 50-member team supporting 10 student projects.
 
 ## Tools and methods
 
